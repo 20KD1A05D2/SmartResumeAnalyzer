@@ -1,0 +1,7 @@
+{
+  "Java Developer": ["java", "spring", "hibernate", "microservices"],
+  "Frontend Developer": ["html", "css", "javascript", "react", "bootstrap"],
+  "Data Analyst": ["sql", "excel", "python", "data cleaning", "tableau"],
+  "Software Tester": ["test cases", "selenium", "automation", "bug tracking"],
+  "Support Engineer": ["tickets", "monitoring", "communication", "troubleshooting"]
+}
